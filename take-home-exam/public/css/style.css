@@ -1,0 +1,20 @@
+body{
+	background: #f1f1f1;
+}
+.myform{
+	background: #FFFFFF;
+	width: 450px;
+	border: solid 1px #c3c3c3;
+	padding: 40px 20px;
+	margin: 5% auto;
+	border-radius: 5px;
+}
+#logout-link{
+	float: right;
+	margin: 10px 20px;
+}
+#mycontent{
+	margin: 2% auto;
+	padding: 20px;
+	background: #FFFFFF;
+}
